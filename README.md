@@ -1,4 +1,4 @@
-# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+# EX 1:Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 ### Name:KAVINRAJ.S
 ### Reg No: 212223100019
 ## AIM:
